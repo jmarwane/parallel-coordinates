@@ -26,5 +26,7 @@ Cette méthode permet de visualiser les relations entres une dimension et ses di
 
 ## Sources
 https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_parall%C3%A8les
+
 https://en.wikipedia.org/wiki/Parallel_coordinates
+
 http://www.sci.utah.edu/~kpotter/Library/Papers/friendly:2008:GASS/
